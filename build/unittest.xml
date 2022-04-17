@@ -1,0 +1,32 @@
+<testsuite errors="0" failures="0" name="nose2-junit" skipped="0" tests="10" time="0.030">
+  <testcase classname="test.iban.test_validator" name="test_check_length_invalid" time="0.002451">
+    <system-out />
+  </testcase>
+  <testcase classname="test.iban.test_validator" name="test_check_length_valid" time="0.001754">
+    <system-out />
+  </testcase>
+  <testcase classname="test.iban.test_validator" name="test_country_code_exists" time="0.002844">
+    <system-out />
+  </testcase>
+  <testcase classname="test.iban.test_validator" name="test_country_code_not_exists" time="0.001558">
+    <system-out />
+  </testcase>
+  <testcase classname="test.iban.test_validator" name="test_perform_mod_operation_invalid" time="0.001867">
+    <system-out />
+  </testcase>
+  <testcase classname="test.iban.test_validator" name="test_perform_mod_operation_valid" time="0.001762">
+    <system-out />
+  </testcase>
+  <testcase classname="test.iban.test_validator" name="test_validate_invalid_iban" time="0.002392">
+    <system-out />
+  </testcase>
+  <testcase classname="test.iban.test_validator" name="test_validate_valid_iban" time="0.002224">
+    <system-out />
+  </testcase>
+  <testcase classname="test.test_main" name="test_validate" time="0.002873">
+    <system-out />
+  </testcase>
+  <testcase classname="test.test_main" name="test_validate_route" time="0.009209">
+    <system-out />
+  </testcase>
+</testsuite>
